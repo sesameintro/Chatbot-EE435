@@ -4,5 +4,4 @@
  The specific explanation is below:
  https://www.youtube.com/watch?v=liPYbGVuPWI
 
-The WordsClassification.ipynb is the final application on the NLP.
-Improvedresult.png is the final result of this jupyternotebook
+seq2seqchatbot is the final jupyternote book and you can see the result on it.
